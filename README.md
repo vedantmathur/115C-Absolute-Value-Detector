@@ -14,23 +14,20 @@
 8. Suffer.
 
 
-Status - 5/30/21 12AM
+Status - 5/30/21 12PM
 
-3bitComparator - MAIN ONE, WORKING ON Revanth
+3bitComparator - WORKING ON Revanth
 
 MirrorAdder - WORKING ON JC
 
-3to1AND - NEEDS REVIEW
-
-3bit_2to1MUX - WORKING ON Vedant
-
 2sComplementer - DEPENDENT ON MIRROR ADDERS
 
-Ab_Value_Detector - MAIN ONE, DEPENDS ON 3bitComparator and Abs_Detector
+Abs_Detector - DEPENDENT ON 2sComplementer
 
-Abs_Detector - DEPNEDS ON 3bit_2to1MUX and 2sComplementer
+Ab_Value_Detector - MAIN ONE, DEPENDENT ON Abs_Detector
 
 Done: 
+
 NAND
 
 NOR
@@ -43,4 +40,8 @@ CMOS_Inv
 
 3to1OR
 
+3to1AND
+
 2to1MUX
+
+3bit_2to1MUX
