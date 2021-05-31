@@ -14,36 +14,18 @@
 8. Suffer.
 
 
-Status - 5/31/21 1230PM
-
-Abs_Detector - DEPENDENT ON 2sComplementer
-
-Ab_Value_Detector - MAIN ONE, DEPENDENT ON Abs_Detector
-
-
-
 Done: 
-
-NAND
-
-NOR
-
-OR
-
-AND
-
-CMOS_Inv
-
-3to1OR
-
-3to1AND
-
-2to1MUX
-
-3bit_2to1MUX
-
-3bitComparator 
-
-MirrorAdder - <- messed up kinda
-
-2sComplementer (messed due to MA)
+- NAND
+- NOR
+- OR
+- AND
+- CMOS_Inv
+- 3to1OR
+- 3to1AND
+- 2to1MUX
+- 3bit_2to1MUX
+- 3bitComparator 
+- MirrorAdder - <- messed up kinda
+- 2sComplementer (messed due to MA)
+- Abs_Detector
+- Abs_Value_Detector
