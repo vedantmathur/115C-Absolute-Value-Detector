@@ -14,11 +14,7 @@
 8. Suffer.
 
 
-Status - 5/31/21 330AM
-
-MirrorAdder - <- messed up
-
-2sComplementer - DEPENDENT ON MIRROR ADDERS
+Status - 5/31/21 1230PM
 
 Abs_Detector - DEPENDENT ON 2sComplementer
 
@@ -47,3 +43,7 @@ CMOS_Inv
 3bit_2to1MUX
 
 3bitComparator 
+
+MirrorAdder - <- messed up kinda
+
+2sComplementer (messed due to MA)
