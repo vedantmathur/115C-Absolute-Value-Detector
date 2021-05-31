@@ -14,17 +14,17 @@
 8. Suffer.
 
 
-Status - 5/30/21 12PM
+Status - 5/31/21 330AM
 
-3bitComparator - WORKING ON Revanth
-
-MirrorAdder - WORKING ON JC
+MirrorAdder - <- messed up
 
 2sComplementer - DEPENDENT ON MIRROR ADDERS
 
 Abs_Detector - DEPENDENT ON 2sComplementer
 
 Ab_Value_Detector - MAIN ONE, DEPENDENT ON Abs_Detector
+
+
 
 Done: 
 
@@ -45,3 +45,5 @@ CMOS_Inv
 2to1MUX
 
 3bit_2to1MUX
+
+3bitComparator 
