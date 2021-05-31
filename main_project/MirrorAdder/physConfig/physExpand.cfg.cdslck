@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      riosj
+HostName                       eeapps02.seas.ucla.edu
+ProcessIdentifier              24309
+ProcessCreationTime_UTC        1622484189
+ProcessCreationTime_Readable   Mon May 31 11:03:09 2021 PDT
+AppIdentifier                  /w/apps3/Cadence/IC617/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /w/home.27/ee/ugrad/riosj/Documents/ee115c/115C-Absolute-Value-Detector/main_project/MirrorAdder/physConfig/physExpand.cfg
+TimeEditLocked                 Mon May 31 11:30:57 2021 PDT
