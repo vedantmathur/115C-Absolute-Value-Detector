@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      vedant
+HostName                       eeapps03.seas.ucla.edu
+ProcessIdentifier              7604
+ProcessCreationTime_UTC        1622457130
+ProcessCreationTime_Readable   Mon May 31 03:32:10 2021 PDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /w/home.15/ee/ugrad/vedant/ee115c/115C-Absolute-Value-Detector/main_project/MirrorAdder/layout/layout.oa.cdslck
+TimeEditLocked                 Mon May 31 03:32:48 2021 PDT
